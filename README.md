@@ -1,1 +1,3 @@
-# pac-man
+# Pac-Man
+
+## Tile-based game in JavaScript
